@@ -90,6 +90,6 @@ UICorner_4.Parent = TextLabel_4
 
 
 
-wait(2)
+wait(5)
 
 game.Players.LocalPlayer:Kick("Please, Rejoin!")
